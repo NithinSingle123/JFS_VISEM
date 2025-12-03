@@ -1,0 +1,11 @@
+{
+  "name": "course-registration",
+  "version": "1.0.0",
+  "description": "Course Registration Form - Static Website",
+  "scripts": {
+    "start": "npx -y http-server Course_Registration -p 5000 -a 0.0.0.0 -c-1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
